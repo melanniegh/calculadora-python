@@ -1,4 +1,4 @@
-# Calculadora en Python 🧮
+# Calculadora en Python 
 
 Este es un proyecto simple de calculadora de consola escrita en Python. Permite realizar operaciones básicas como:
 
@@ -8,7 +8,7 @@ Este es un proyecto simple de calculadora de consola escrita en Python. Permite 
 - División
 - Potencia
 
-## 📦 Cómo usar
+## Cómo usar
 
 1. Clona este repositorio:
 
@@ -29,10 +29,7 @@ python src/calculadora.py
 - Funciones básicas
 - Interacción por consola (CLI)
 
-## 📸 Captura
 
-*(Agrega una imagen en la carpeta `/assets` si deseas)*
-
-## 🔓 Licencia
+## Licencia
 
 MIT License - libre de usar y modificar
